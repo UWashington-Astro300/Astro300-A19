@@ -60,9 +60,7 @@ Determine the 5 most common WORDS in the text with length >= 7 letters
 
 Determine the longest word in the text. If there is more than one list
 them all
-
 ------------------------------------------------------------------------
-
 
 
 ------------------------------------------------------------------------
@@ -83,7 +81,7 @@ punctuation have been removed and case is ignored.
 Determine which of the 3 coded messages are real messages and which
 ones are decoy messages of garbage (random distributions).
 
-------------------------------------------------------------------------
+
 
 
 ------------------------------------------------------------------------
